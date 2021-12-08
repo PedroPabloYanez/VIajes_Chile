@@ -46,3 +46,14 @@ p{
     height: 15vw;
     object-fit: cover;
 }
+
+/* Contacto */
+.bg-contacto{
+    height: 400px;
+    background-color:#fff;
+    width: 95%;
+    color: #000;
+}
+.contenido_contacto{
+    padding-top: 10%;
+}
